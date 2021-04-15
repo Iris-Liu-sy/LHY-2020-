@@ -12,13 +12,22 @@
 
 
 ### 02_Regression
-1. 视频： Regression(回归), Basic Concept()
+1. 视频： Regression(回归), Basic Concept(pias 和 variance)
 2. PPT：https://github.com/Iris-Liu-sy/LHY-2020-/tree/master/PPT/02_Regression
-3. 笔记： 待补充
+3. 笔记： https://zhuanlan.zhihu.com/p/364607896
 4. 作业范例：Linear Regression：https://colab.research.google.com/drive/131sSqmrmWXfjFZ3jWSELl8cm0Ox5ah3C
-5. 作业说明：https://docs.google.com/presentation/d/18MG1wSTTx8AentGnMfIRUp8ipo8bLpgAj16bJoqW-b0/edit#slide=id.g4cd6560e29_0_10
-             https://www.youtube.com/watch?v=QfU-qXINCvs
+5. 作业说明：
+* https://www.youtube.com/watch?v=QfU-qXINCvs
+* https://docs.google.com/presentation/d/18MG1wSTTx8AentGnMfIRUp8ipo8bLpgAj16bJoqW-b0/edit#slide=id.g4cd6560e29_0_10
 6. code：待补充
+
+
+### 03_Gradient Descent
+1. 视频：Gradient Descent
+2. PPT：
+3. 笔记： 待补充
+4. 补充知识点：https://youtu.be/4pUmZ8hXlHM
+
 
 
 
@@ -37,10 +46,13 @@
 
 
 -------------------------------待补充
+### 
 1. 视频：
 2. PPT：
-3. 笔记： 
+3. 笔记： 待补充
 4. 作业范例：
 5. 作业说明:
-6. code：
+*
+*
+6. code：待补充
 7. 补充知识点：
