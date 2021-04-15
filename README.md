@@ -24,7 +24,7 @@
 
 ### 03_Gradient Descent
 1. 视频：Gradient Descent
-2. PPT：
+2. PPT：https://github.com/Iris-Liu-sy/LHY-2020-/tree/master/PPT/03_Gradient%20Descent
 3. 笔记： 待补充
 4. 补充知识点：https://youtu.be/4pUmZ8hXlHM
 
